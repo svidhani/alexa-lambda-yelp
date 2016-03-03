@@ -1,0 +1,3 @@
+RestaurantFinderIntent find top {Limit} {indian|Cuisine} restaurants in {Seattle|Location}
+RestaurantFinderIntent find restaurants
+RestaurantFinderIntent find indian restaurants
