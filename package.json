@@ -1,0 +1,15 @@
+{
+  "name": "yelp-lambda",
+  "version": "1.0.0",
+  "description": "Yelp Lambda for Alexa",
+  "main": "index.js",
+  "dependencies": {
+    "node-yelp": "0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siddharth Vidhani",
+  "license": "ISC"
+}
