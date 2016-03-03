@@ -1,0 +1,24 @@
+{
+  "intents": [
+    {
+      "intent": "RestaurantFinderIntent",
+      "slots": [
+        {
+          "name": "Cuisine",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "Location",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "Limit",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
